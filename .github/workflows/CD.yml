@@ -37,4 +37,4 @@ jobs:
       uses : softprops/actions-gh-release@v1
       with : 
         files : ${{github.workspace}}/build/FirstOrganizedCmake-1.0-linux-Release.tar.gz
-        env : GITHUB_TOKEN:${{secrets.GITHUB_TOKEN}}s
+        env : GITHUB_TOKEN:${{secrets.GITHUB_TOKEN}}
