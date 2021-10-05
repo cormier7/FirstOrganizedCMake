@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
 
-# set the project name
+# set the project name test Ci
 project(FirstOrganizedCMake VERSION 1.0)
 
 # set options
