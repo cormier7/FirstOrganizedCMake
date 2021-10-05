@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.10)
 
 <<<<<<< HEAD
-# set the project name fff
+# set the project name 
 =======
 # set the project name test Ci
 >>>>>>> 5803334fec8f60d92f4cfe26fdaada52488ead28
